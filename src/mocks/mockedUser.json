@@ -1,0 +1,102 @@
+[
+  {
+    "uuid": "3f23a2b1-63a1-4d91-8a18-c07f519ba1e2",
+    "name": "Carlos Martínez",
+    "id": "STU-001",
+    "role": "student",
+    "age": 16,
+    "grade": "Primer año Bachillerato",
+    "section": "A",
+    "roomId": "ROOM-001"
+  },
+  {
+    "uuid": "c7818b96-4fd6-4c15-9e95-8ce9627b14f3",
+    "name": "María López",
+    "id": "STU-002",
+    "role": "student",
+    "age": 17,
+    "grade": "Segundo año Bachillerato",
+    "section": "B",
+    "roomId": "ROOM-002"
+  },
+  {
+    "uuid": "7bc257cc-bc0b-42b7-9a9a-8005d3a3bd11",
+    "name": "José Hernández",
+    "id": "STU-003",
+    "role": "student",
+    "age": 15,
+    "grade": "Noveno",
+    "section": "C",
+    "roomId": "ROOM-003"
+  },
+  {
+    "uuid": "e17db87d-1204-4e60-a97a-5a590a6ca579",
+    "name": "Ana Torres",
+    "id": "STU-004",
+    "role": "student",
+    "age": 14,
+    "grade": "Octavo",
+    "section": "D",
+    "roomId": "ROOM-004"
+  },
+  {
+    "uuid": "b9e27a8b-a96d-4cd4-bf2b-6fdcf8ef8987",
+    "name": "Luis Gómez",
+    "id": "STU-005",
+    "role": "student",
+    "age": 13,
+    "grade": "Séptimo",
+    "section": "E",
+    "roomId": "ROOM-005"
+  },
+  {
+    "uuid": "d611f5e3-8995-46bb-b371-a043d6f0c1e2",
+    "name": "Paola Rivas",
+    "id": "STU-006",
+    "role": "student",
+    "age": 12,
+    "grade": "Sexto",
+    "section": "F",
+    "roomId": "ROOM-006"
+  },
+  {
+    "uuid": "49276a66-2505-46a4-9ac1-e90fea137e11",
+    "name": "Jorge Castillo",
+    "id": "STU-007",
+    "role": "student",
+    "age": 11,
+    "grade": "Quinto",
+    "section": "G",
+    "roomId": "ROOM-007"
+  },
+  {
+    "uuid": "3cd0b196-e0e2-4035-ae9b-e5f81c90cc18",
+    "name": "Valeria Salinas",
+    "id": "STU-008",
+    "role": "student",
+    "age": 10,
+    "grade": "Cuarto",
+    "section": "H",
+    "roomId": "ROOM-008"
+  },
+  {
+    "uuid": "f3e29f43-35b3-4bad-b3a7-d2e7ab3aeaa4",
+    "name": "Daniel Cruz",
+    "id": "STU-009",
+    "role": "student",
+    "age": 9,
+    "grade": "Tercero",
+    "section": "I",
+    "roomId": "ROOM-009"
+  },
+  {
+    "uuid": "a77c1586-f884-41ff-81f3-839b8c86b7c0",
+    "name": "Andrea Molina",
+    "id": "STU-010",
+    "role": "student",
+    "age": 8,
+    "grade": "Segundo",
+    "section": "J",
+    "roomId": "ROOM-010"
+  }
+]

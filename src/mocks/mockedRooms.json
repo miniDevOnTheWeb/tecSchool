@@ -1,0 +1,49 @@
+[
+  { "id": "b7e2a4e2-4a15-41a3-a8ae-11d8e046f103", "grade": "Primero", "section": "A" },
+  { "id": "ec2c3cb1-fc76-45e2-a141-3e41ef5371c1", "grade": "Primero", "section": "B" },
+  { "id": "e1dd6b24-bb5c-4d6e-97b8-bd1467d7c28f", "grade": "Primero", "section": "C" },
+
+  { "id": "5f4c3b54-6c9f-475a-85c1-db75314799e0", "grade": "Segundo", "section": "A" },
+  { "id": "c80f489a-2392-4d3e-81fe-7696270f6926", "grade": "Segundo", "section": "B" },
+  { "id": "13b8d89e-d1d5-4e4b-9e4e-74603fd73452", "grade": "Segundo", "section": "C" },
+
+  { "id": "a95e70ba-1433-4cab-93d8-e412bf89c9ad", "grade": "Tercero", "section": "A" },
+  { "id": "8088078f-6adb-4a21-8f54-73219f57a784", "grade": "Tercero", "section": "B" },
+  { "id": "934d8fb9-400f-4f1c-b928-0e1a6c99f37c", "grade": "Tercero", "section": "C" },
+
+  { "id": "4eb1d130-8309-4869-af66-1c8b33d60564", "grade": "Cuarto", "section": "A" },
+  { "id": "30d059f4-37ae-4f35-aac5-6402a70c0552", "grade": "Cuarto", "section": "B" },
+  { "id": "f170d274-ec7b-4b19-8486-415889b0ba9f", "grade": "Cuarto", "section": "C" },
+
+  { "id": "2b185c5c-e6f6-4e24-9571-3dfe5c8d86a4", "grade": "Quinto", "section": "A" },
+  { "id": "05cfafee-b92d-4f3b-bb35-9c8f22cc2cb2", "grade": "Quinto", "section": "B" },
+  { "id": "76459d38-71db-4ac8-b977-51c356e73a19", "grade": "Quinto", "section": "C" },
+
+  { "id": "b4d567be-1c76-43e8-b872-937a5f084b2f", "grade": "Sexto", "section": "A" },
+  { "id": "48bbf0df-de3a-4bc4-9f56-3d0370799733", "grade": "Sexto", "section": "B" },
+  { "id": "402df621-aacd-49c0-a79b-4eb1cb8ffd79", "grade": "Sexto", "section": "C" },
+
+  { "id": "dc8b6a21-e8e4-42bc-bf1a-f9b1007ae5ad", "grade": "Septimo", "section": "A" },
+  { "id": "8f7e0675-69ef-4531-a113-243d8fbb113c", "grade": "Septimo", "section": "B" },
+  { "id": "e0cea786-bd36-4f50-8e06-381ff9d3c8fa", "grade": "Septimo", "section": "C" },
+
+  { "id": "53c3ccac-f0f2-4dc6-b895-5a028b4bb298", "grade": "Octavo", "section": "A" },
+  { "id": "a37c7419-e14e-4c83-aeee-1f64b3b796bd", "grade": "Octavo", "section": "B" },
+  { "id": "77e54e38-a258-422e-a660-476cd861b976", "grade": "Octavo", "section": "C" },
+
+  { "id": "9216e49a-87c0-4a32-9d77-e927bd42bc52", "grade": "Noveno", "section": "A" },
+  { "id": "77c061ed-b35f-4c3d-9cff-98c677378032", "grade": "Noveno", "section": "B" },
+  { "id": "458b381b-68b4-437a-b00d-f35a546e934c", "grade": "Noveno", "section": "C" },
+
+  { "id": "02eed75a-304e-4ab7-9b2b-51243192dc92", "grade": "Primer año Bachillerato", "section": "A" },
+  { "id": "f1bc97db-6420-4d14-9daa-79cddce0451f", "grade": "Primer año Bachillerato", "section": "B" },
+  { "id": "d6951a45-1076-4fbf-8740-0b259d35ccfb", "grade": "Primer año Bachillerato", "section": "C" },
+
+  { "id": "fa16b7cb-32a4-4f0a-8fb1-105434bba252", "grade": "Segundo año Bachillerato", "section": "A" },
+  { "id": "f3348a37-b63b-4d35-8b3a-bef9436879da", "grade": "Segundo año Bachillerato", "section": "B" },
+  { "id": "3cd893f4-2aee-4ecf-b44d-04b6959e8d05", "grade": "Segundo año Bachillerato", "section": "C" },
+
+  { "id": "e43df6ff-3437-452e-a7b0-9db8a0a23bf7", "grade": "Tercer año Bachillerato", "section": "A" },
+  { "id": "7e8460d8-68e5-436f-9b6f-03bcf6e9f2d4", "grade": "Tercer año Bachillerato", "section": "B" },
+  { "id": "2bf3c191-bfa3-42e8-afcd-1ebe7501f7d6", "grade": "Tercer año Bachillerato", "section": "C" }
+]
